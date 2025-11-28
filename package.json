@@ -1,0 +1,20 @@
+{
+    "name": "milib",
+    "version": "1.0.0",
+    "description": "Momoza-sys personal react.js library",
+    "scripts": {
+
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Momoza-sys/milib.git"
+    },
+    "author": "Momoza-sys",
+    "license": "ISC",
+    "peerDependencies": {
+
+    },
+    "devDependencies": {
+        
+    }
+}
